@@ -1,0 +1,5 @@
+- name: "This could be you !"
+  photo: rock.jpg
+  info: See <a href="{{ site.url }}{{ site.baseurl }}/vacancies">openings</a> for more info
+  email: example@gmail.com
+  number_topic: 0

@@ -1,0 +1,44 @@
+
+- title: "Multiobjective Optimization-Aided Decision-Making System for Large-Scale Manufacturing Planning"
+  description: his work is geared toward a real-world manufacturing planning (MP) task, whose two objectives are to maximize the order fulfillment rate and minimize the total cost.
+  authors: Zhenkun Wang, Hui-Ling Zhen, Jingda Deng, Qingfu Zhang, Xijun Li, Mingxuan Yuan and Jia Zeng
+  link:
+    url: doi://10.1109/TCYB.2021.3049712
+    display: IEEE Transactions on Cybernetics
+  highlight: 1
+
+- title: "Efficient Greedy Decremental Hypervolume Subset Selection Using Space Partition Tree"
+  image: https://dummyimage.com/250x160/000/fff
+  description: This work is geared toward a real-world manufacturing planning (MP) task, whose two objectives are to maximize the order fulfillment rate and minimize the total cost.
+  authors: Jingda Deng, Jianyong Sun, Qingfu Zhang and Hui Li
+  link:
+    url: doi://10.1109/TCYB.2021.3049712
+    display: IEEE Transactions on Evolutionary Computation
+  highlight: 1
+
+- title: "Multiobjective Optimization-Aided Decision-Making System for Large-Scale Manufacturing Planning"
+  image: https://dummyimage.com/200x400/000/fff
+  description: his work is geared toward a real-world manufacturing planning (MP) task, whose two objectives are to maximize the order fulfillment rate and minimize the total cost.
+  authors: Zhenkun Wang, Hui-Ling Zhen, Jingda Deng, Qingfu Zhang, Xijun Li, Mingxuan Yuan and Jia Zeng
+  link:
+    url: doi://10.1109/TCYB.2021.3049712
+    display: IEEE Transactions on Cybernetics
+  highlight: 1
+
+- title: "A Constrained Decomposition Approach With Grids for Evolutionary Multiobjective Optimization"
+  image: https://dummyimage.com/160x160/000/fff
+  description: Decomposition based multiobjective evolutionary algorithms (MOEAs) decompose a multiobjective optimization problem into a set of scalar objective subproblems and solve them in a collaborative way.
+  authors: Xinye Cai,Zhiwei Mei, Zhun Fan and Qingfu Zhang
+  link:
+    url: doi://10.1109/TCYB.2021.3049712
+    display: IEEE Transactions on Evolutionary Computation
+  highlight: 0
+
+- title: "Efficient Greedy Decremental Hypervolume Subset Selection Using Space Partition Tree"
+  image: https://dummyimage.com/160x160/000/fff
+  description: This work is geared toward a real-world manufacturing planning (MP) task, whose two objectives are to maximize the order fulfillment rate and minimize the total cost.
+  authors: Zhenkun Wang, Hui-Ling Zhen, Jingda Deng, Qingfu Zhang, Xijun Li, Mingxuan Yuan and Jia Zeng
+  link:
+    url: doi://10.1109/TCYB.2021.3049712
+    display: IEEE Transactions on Cybernetics
+  highlight: 0
