@@ -10,7 +10,7 @@ title: The Optima Group
 email: siyuan.chen@cityu.edu.hk
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Optima Group.
-baseurl: "/website-jekyll"
+baseurl: ""
 url: ""
 
 include:
