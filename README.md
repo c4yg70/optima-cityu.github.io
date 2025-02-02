@@ -9,7 +9,7 @@ It is derived from the great template provided by the
 
 The website would be build and publish automatically thanks to the Github Action.
 
-If you need to build and test locally, please setup the `baseurl` to `[localhost/ip address]:[ports]` (for example: `localhost:8080`), to correctly build the website style.
+If you need to build and test locally, please setup the `baseurl` to `[localhost/ip address]:[ports]` (for example: `localhost:4000`), to correctly build the website style.
 
 ``` bash
 brew install ruby
