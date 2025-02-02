@@ -7,6 +7,10 @@ It is derived from the great template provided by the
 
 ## Setup
 
+The website would be build and publish automatically thanks to the Github Action.
+
+If you need to build and test locally, please setup the `baseurl` to `[localhost/ip address]:[ports]` (for example: `localhost:8080`), to correctly build the website style.
+
 ``` bash
 brew install ruby
 gem install bundler jekyll
