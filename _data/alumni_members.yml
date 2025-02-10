@@ -1,6 +1,64 @@
-- name: LI Genghui 李庚辉
-  photo: genghuili.jpg
-  url: https://scholar.google.com/citations?user=3WixDRMAAAAJ&hl=en&oi=ao
-  duration: PhD in the Optima Group 2017-2021, now Assitant Professor at the Shenzhen University
-  info: xxx working in our group
-  number_topic: 0
+- name: Jingjing CHEN (陈静静)
+  year: 2024
+  affiliation:
+  url: https://scholars.cityu.edu.hk/en/persons/jingjing-chen(4263a2bd-a1bc-4d3a-ad44-8cf83c35ce07).html
+
+- name: Cheng GONG (龚成)
+  year: 2024
+  affiliation: Huawei Noah's Ark lab
+  url: https://scholar.google.com/citations?user=d_wVFg0AAAAJ&hl=zh-CN&oi=ao
+
+- name: Zhiyuan YANG (杨致远)
+  year: 2024
+  affiliation: Huawei Noah's Ark lab
+  url: https://crazyang.com/about/
+
+- name: Genghui LI (李庚辉)
+  year: 2022
+  affiliation: Assistant Professor at Shenzhen University
+  url: https://scholar.google.com/citations?user=3WixDRMAAAAJ&hl=zh-CN
+
+- name: Qingling ZHU (朱庆灵)
+  year: 2022
+  affiliation: Assistant Professor at Shenzhen University
+  url: https://zhuqingling.github.io/
+
+- name: Weifeng GAO (高卫峰)
+  year: 2022
+  affiliation: Professor at Xidian University
+  url: https://web.xidian.edu.cn/gaoweifeng/
+
+- name: Zhenkun WANG (王振坤)
+  year: 2022
+  affiliation: Assistant Professor at Southern University of Science and Technology
+  url: https://www.sustech.edu.cn/en/faculties/wangzhenkun.html
+
+- name: Huilin ZHEN
+  year: 2024
+  affiliation: Huawei Noah's Ark lab
+  url: https://scholar.google.com.hk/citations?user=gq29DtwAAAAJ&hl=zh-CN
+
+- name: Jingda DENG (邓镜达)
+  year: 2022
+  affiliation: Assistant Professor at Xi'an Jiaotong University
+  url: https://math.xjtu.edu.cn/info/1370/10162.htm
+
+- name: Ke LI (李珂)
+  year: 2022
+  affiliation: Senior Lecturer at University of Exeter
+  url: https://scholar.google.com/citations?user=lUFU8KsAAAAJ&hl=en
+
+- name: Yu ZHOU (周宇)
+  year: 2022
+  affiliation: Associate Professor at Shenzhen University
+  url: https://yzhouszu.github.io/
+
+- name: Jialong SHI (石家隆)
+  year: 2022
+  affiliation: Associate Professor at Xi'an Jiaotong University
+  url: https://math.xjtu.edu.cn/info/1353/7518.htm
+
+- name: Mengyuan WU (吴梦远)
+  year: 2022
+  affiliation: Shein
+  url:

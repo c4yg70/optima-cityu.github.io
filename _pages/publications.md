@@ -9,10 +9,6 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
-
-**At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). All papers are also available on [arXiv](https://arxiv.org/search/cs?query=Zhang, Qingfu&searchtype=author&abstracts=show&order=-announced_date_first&size=50).**
-
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
 
@@ -26,8 +22,7 @@ permalink: /publications/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
-  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" /> -->
-  <img src="{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
@@ -52,11 +47,22 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-## Full List of publications
 
-{% for publi in site.data.publist %}
+## Selected List of publications
+**Full list of papers are available on [CityU Scholars](https://scholars.cityu.edu.hk/en/persons/qingfu-zhang(a25373cf-62a1-4697-ad08-43678bcbf3f2)/publications.html).**
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+#### **Journal**
+{% for publi in site.data.journallist %}
+
+<a href="{{ publi.link.url }}"><strong>{{ publi.title }}</strong></a> <br />
+  <em>{{ publi.authors }} </em><br />{{ publi.link.display }}
+
+{% endfor %}
+
+#### **Conference**
+{% for publi in site.data.conferencelist %}
+
+<a href="{{ publi.link.url }}"><strong>{{ publi.title }}</strong></a> <br />
+<em>{{ publi.authors }} </em><br />{{ publi.link.display }}
 
 {% endfor %}

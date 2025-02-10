@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Optima Group
-email: siyuan.chen@cityu.edu.hk
+title: The Allan Lab
+email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Website of the Optima Group.
+  Website of the AllanLab.
 baseurl: ""
 url: ""
 
@@ -27,6 +27,8 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+
+
 # Markdown Processing
 kramdown:
   input: GFM
@@ -38,4 +40,3 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
-
