@@ -29,7 +29,7 @@ permalink: /research/
   notably enhanced the automation and innovation within this field, offering new perspectives and promising solutions.
   Over the past three years, the integration of LLMs into AD has seen substantial progress,
   with applications spanning optimization, machine learning, mathematical reasoning, and scientific discovery....
-  <a href="{{ site.url }}{{ site.baseurl }}/research/404.html">see here for more</a>.
+  <a href="{{ site.url }}{{ site.baseurl }}/research/aad.html">see here for more</a>.
   <p> <br> </p>
 
 - **Evolutionary Computation.**
